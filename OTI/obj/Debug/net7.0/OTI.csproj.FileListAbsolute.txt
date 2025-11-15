@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\OTI\OTI\bin\Debug\net7.0\OTI.exe
+C:\Users\georg\source\repos\OTI\OTI\bin\Debug\net7.0\OTI.deps.json
+C:\Users\georg\source\repos\OTI\OTI\bin\Debug\net7.0\OTI.runtimeconfig.json
+C:\Users\georg\source\repos\OTI\OTI\bin\Debug\net7.0\OTI.dll
+C:\Users\georg\source\repos\OTI\OTI\bin\Debug\net7.0\OTI.pdb
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.AssemblyInfo.cs
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.dll
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\refint\OTI.dll
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.pdb
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\OTI.genruntimeconfig.cache
+C:\Users\georg\source\repos\OTI\OTI\obj\Debug\net7.0\ref\OTI.dll
